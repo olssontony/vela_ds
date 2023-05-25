@@ -1,0 +1,178 @@
+{
+  "grid": {
+    "vertical 6 col": {
+      "0": {
+        "type": "custom-grid",
+        "value": {
+          "pattern": "columns",
+          "gutterSize": 20,
+          "alignment": "stretch",
+          "count": 6,
+          "offset": 20
+        }
+      },
+      "1": {
+        "type": "custom-grid",
+        "value": {
+          "pattern": "rows",
+          "gutterSize": 20,
+          "alignment": "stretch",
+          "count": 6,
+          "offset": 20
+        }
+      },
+      "description": null,
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:d317f231b2581b78b8734994422d058b19f04af7,",
+          "exportKey": "grid"
+        }
+      }
+    },
+    "hirstontal 4 col": {
+      "0": {
+        "type": "custom-grid",
+        "value": {
+          "pattern": "columns",
+          "gutterSize": 20,
+          "alignment": "stretch",
+          "count": 4,
+          "offset": 20
+        }
+      },
+      "1": {
+        "type": "custom-grid",
+        "value": {
+          "pattern": "rows",
+          "gutterSize": 20,
+          "alignment": "stretch",
+          "count": 6,
+          "offset": 20
+        }
+      },
+      "description": null,
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:25e899946f85112e2393f257e8f709f826130a92,",
+          "exportKey": "grid"
+        }
+      }
+    },
+    "horisontal 2 col": {
+      "0": {
+        "type": "custom-grid",
+        "value": {
+          "pattern": "columns",
+          "gutterSize": 20,
+          "alignment": "stretch",
+          "count": 2,
+          "offset": 20
+        }
+      },
+      "1": {
+        "type": "custom-grid",
+        "value": {
+          "pattern": "rows",
+          "gutterSize": 20,
+          "alignment": "stretch",
+          "count": 6,
+          "offset": 20
+        }
+      },
+      "description": null,
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:53ef7c6c2815a387536bab726ca39f04fc9e0646,",
+          "exportKey": "grid"
+        }
+      }
+    },
+    "vertical 4 col": {
+      "0": {
+        "type": "custom-grid",
+        "value": {
+          "pattern": "columns",
+          "gutterSize": 12,
+          "alignment": "stretch",
+          "count": 4,
+          "offset": 12
+        }
+      },
+      "1": {
+        "type": "custom-grid",
+        "value": {
+          "pattern": "rows",
+          "gutterSize": 12,
+          "alignment": "stretch",
+          "count": 6,
+          "offset": 12
+        }
+      },
+      "description": null,
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:0ae5f30121d24bda4fde3d913ad6a30dc6763165,",
+          "exportKey": "grid"
+        }
+      }
+    },
+    "vertical 12 col": {
+      "0": {
+        "type": "custom-grid",
+        "value": {
+          "pattern": "columns",
+          "gutterSize": 12,
+          "alignment": "stretch",
+          "count": 12,
+          "offset": 12
+        }
+      },
+      "1": {
+        "type": "custom-grid",
+        "value": {
+          "pattern": "rows",
+          "gutterSize": 12,
+          "alignment": "stretch",
+          "count": 6,
+          "offset": 12
+        }
+      },
+      "description": null,
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:28de84bf71671db0e7b21c67b3f4fd1179148bb7,",
+          "exportKey": "grid"
+        }
+      }
+    },
+    "6 x 5": {
+      "0": {
+        "type": "custom-grid",
+        "value": {
+          "pattern": "columns",
+          "gutterSize": 12,
+          "alignment": "stretch",
+          "count": 5,
+          "offset": 12
+        }
+      },
+      "1": {
+        "type": "custom-grid",
+        "value": {
+          "pattern": "rows",
+          "gutterSize": 12,
+          "alignment": "stretch",
+          "count": 6,
+          "offset": 12
+        }
+      },
+      "description": null,
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:cd5f154892c6cd77141a129490652367668a5704,",
+          "exportKey": "grid"
+        }
+      }
+    }
+  }
+}
